@@ -12,10 +12,11 @@
     width: 100vw; 
 }
 .content{
-    margin: auto;
+    margin: auto; 
     width: 697px;
-    height: 1264px;
+    height: 1264px; 
     background: #FFFFFF;
+  
 }
 .content__header{
     width: 697px;
@@ -203,3 +204,47 @@
     color: #FFFFFF;
     text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.25);
 }
+.footer{
+    width: 697px;
+    height: 243px;
+    background: #333333;
+    margin-top: 57px;
+}
+.footer__mapa{
+  float: left;
+  margin-left:48px;
+  padding-top: 40px;
+  margin-bottom: 40px;
+
+}
+
+.footer__text{ 
+    float: right;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 23px;
+    text-align: justify;
+    color: #FFFFFF;
+    margin-right: 45px;
+    margin-top: 30px;
+}
+.text_redes-sociais{
+    float: right;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 13px;
+    text-align: justify;
+    color: #FFFFFF;
+    padding-top: 157px;
+}
+.redes_socias{
+    float: right;
+}
+.icons{ 
+    float: right;
+    margin-top:170px;
+    margin-left: 10px;
+} 
+/*foi o que consegui fazer no padding kk"
+
