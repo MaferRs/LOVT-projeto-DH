@@ -1,5 +1,8 @@
 # Projeto-DH
 
+Projeto posto pelo Curso da Digital House em parceria com a ifood.
+
+Este projeto foi desenvolvido para por emprática diferentes conceitos sobre posicionamentos. 
 
 <a href="https://maferrs.github.io/Projeto-HTML-CSS-DH/"> LOVT posicionamento com float</a>
 
